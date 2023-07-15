@@ -32,14 +32,8 @@ I am Eksperimental and I am an Elixir developer.
   - [Buildable](https://github.com/eksperimental/buildable): An Elixir library providing a protocol to buid any term. Think of it as Enumerable for inserting, not only extracting.
   - [ExtendedTypes](https://github.com/eksperimental/extended_types) - An Elixir library that imports additional types to your Elixir modules.
 
-- 🌱 I’m currently learning Phoenix, Phoenix LiveView.
-
 - 🤔 I’m always looking for help with any of my open source projects.
 
 - 📫 How to reach me: <eksperimental [at] autistici.org>
 
 - ⚡ Fun fact: All my works are [released to the public domain under three licenses](https://github.com/eksperimental/public_domain_multi_licensed).
-
-<hr />
-
-![metrics](./github-metrics.svg)
